@@ -2,6 +2,6 @@ configurations.all {
     resolutionStrategy {
         force "com.android.support:appcompat-v7:28.+"
         force "com.android.support:support-v4:28.+"
-        force "com.google.android.gms:play-services-gcm:16.0.0"
+        force "com.google.android.gms:play-services-ads:16.0.0"
     }
 }
