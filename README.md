@@ -1,2 +1,1 @@
-
-phonegap plugin add cordova-plugin-ignore-lint-translation --save
+Configures Android project by manipulating the build.gradle file.
