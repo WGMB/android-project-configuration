@@ -4,6 +4,6 @@ configurations.all {
         // Used from AdMob plugin - won't use v18.0.0 cause of this: https://developers.google.com/android/guides/releases#june_17_2019
         // For Android X migration issues see here: https://pm.weblicity.org/irj/browse/WGMB-4258?focusedCommentId=136998&page=com.atlassian.jira.plugin.system.issuetabpanels:comment-tabpanel#comment-136998
         // ****************************************
-        force "com.google.android.gms:play-services-ads:17.2.1"
+        force "com.google.android.gms:play-services-ads:18.0.0"
     }
 }
