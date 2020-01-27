@@ -1,6 +1,1 @@
-configurations.all {
-    resolutionStrategy {
-        force "com.android.support:appcompat-v7:27.+"
-        force "com.android.support:support-v4:28.+"
-    }
-}
+
