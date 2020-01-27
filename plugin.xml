@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-                id="cordova-plugin-ignore-lint-translation"
+                id="cordova-plugin-android-project-configuration"
                 version="0.0.1">
 
-    <name>cordova-plugin-ignore-lint-translation</name>
-    <description>Ignores Android MissingTranslation and ExtraTranslationduring Gradle lintVitalRelease task</description>
+    <name>cordova-plugin-android-project-configuration</name>
+    <description>cordova-plugin-android-project-configuration</description>
     <license>Proprietary</license>
 
     <engines>
