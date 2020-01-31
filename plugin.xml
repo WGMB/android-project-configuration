@@ -11,15 +11,7 @@
 		<engine name="cordova" version=">=3.0.0" />
     </engines>
 
-	<platform name="android">
-		<preference name="ANDROIDX_CORE_VERSION" default="1.1.0"/>
-		<preference name="ANDROIDX_ANNOTATION_VERSION" default="1.1.0"/>
-		<preference name="ANDROIDX_BROWSER_VERSION" default="1.2.0"/>
-		<preference name="ANDROIDX_MEDIA_VERSION" default="1.1.0"/>
-		<preference name="ANDROIDX_COLLECTION_VERSION" default="1.1.0"/>
-		<preference name="ANDROIDX_APP_COMPAT_VERSION" default="1.1.0"/>
-		<preference name="ANDROIDX_VIEWPAGER_VERSION" default="1.0.0"/>
-		
+	<platform name="android">		
 		<!-- *** Android X Libraries *** -->
 		<framework src="androidx.core:core:1.1.0" />
 		<framework src="androidx.annotation:annotation:1.1.0" />
