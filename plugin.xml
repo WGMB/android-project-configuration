@@ -13,8 +13,8 @@
 
 	<platform name="android">		
 		<!-- *** Android X Libraries *** -->
-		<framework src="androidx.core:core:1.1.0" />
-		<framework src="androidx.annotation:annotation:1.1.0" />
+		<framework src="androidx.core:core:1.6.+" />
+<!-- 		<framework src="androidx.annotation:annotation:1.1.0" />
 		<framework src="androidx.browser:browser:1.2.0" />
 		<framework src="androidx.media:media:1.1.0" />
 		<framework src="androidx.collection:collection:1.1.0" />
@@ -23,7 +23,7 @@
 		<framework src="androidx.viewpager:viewpager:1.0.0" />
 		<framework src="androidx.recyclerview:recyclerview:1.1.0" />
 		<framework src="androidx.recyclerview:recyclerview-selection:1.0.0" />
-		<framework src="androidx.loader:loader:1.1.0" />
+		<framework src="androidx.loader:loader:1.1.0" /> -->
 		
 		<framework src="src/android/build-extras.gradle" custom="true" type="gradleReference" />
 	</platform>
