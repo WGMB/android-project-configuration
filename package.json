@@ -1,11 +1,5 @@
 {
   "name": "cordova-plugin-android-project-configuration",
-  "version": "0.0.1",
-  "main": "plugin.xml",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "WGMB",
   "repository": {
     "type": "git",
     "url": "https://github.com/WGMB/android-project-configuration"
