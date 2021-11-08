@@ -1,27 +1,13 @@
 {
-  "name": "cordova-plugin-ignore-lint-translation",
+  "name": "cordova-plugin-android-project-configuration",
   "version": "0.0.1",
-  "description": "Ignores Android MissingTranslation and ExtraTranslationduring Gradle lintVitalRelease task",
   "main": "plugin.xml",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "qkdreyer",
-  "license": "ISC",
+  "author": "WGMB",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qkdreyer/cordova-plugin-ignore-lint-translation"
-  },
-  "keywords": [
-    "cordova",
-    "phonegap",
-    "plugin",
-    "ignore",
-    "lint",
-    "translation"
-  ],
-  "bugs": {
-    "url": "https://github.com/qkdreyer/cordova-plugin-ignore-lint-translation/issues"
-  },
-  "homepage": "https://github.com/qkdreyer/cordova-plugin-ignore-lint-translation"
+    "url": "https://github.com/WGMB/android-project-configuration"
+  }
 }
